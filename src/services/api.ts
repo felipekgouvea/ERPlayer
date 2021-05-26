@@ -30,7 +30,7 @@ export const tracks = [
         title: "A Gente Não Se Aguenta (Ao Vivo)",
         albumName: "Realidade - Ao Vivo em Manaus",
         like: false,
-        cover: require(`../assets/images/cover/marilia-mendoca-realidade-ao-vivo.jpeg`),
+        cover: require(`../assets/images/cover/marilia-mendoca-realidade-ao-vivo.jpg`),
     },
     {
         id: 5,
